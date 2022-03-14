@@ -1,7 +1,7 @@
 # World_Weather_Analysis
 
 ## Overview
-The purpose of this project is to collect and analyze weather data across cities across the world to provide travelers with a tool that will give them the opportunity to plan their trips according to the weather conditions
+The purpose of this project is to collect and analyze weather data of cities across the world to provide travelers with a tool that will give them the opportunity to plan their trips according to the weather conditions
 
 ### Resources Used
 * **CSV Files:** 
